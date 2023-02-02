@@ -14,6 +14,7 @@ namespace Class_02
             ShowAircraftInfo(boeing747);
             ShowAircraftInfo(cornhusker);
             cornhusker.Fly();
+            boeing747.Fly();
         }
         static void ShowAircraftInfo(Airplane airplane)
         {
