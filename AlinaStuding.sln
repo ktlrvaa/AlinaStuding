@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceClass_01", "Inhe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mas_03", "Mas_03\Mas_03.csproj", "{0CF02A09-F9BD-4D4B-97F4-112CED692178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_02", "Array_02\Array_02.csproj", "{974BA8CA-841B-40F0-95B1-DAC43D64EA39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_02", "Array_02\Array_02.csproj", "{974BA8CA-841B-40F0-95B1-DAC43D64EA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicPuzzles", "LogicPuzzles\LogicPuzzles.csproj", "{1D020BEE-A5D9-400B-A18B-54435C1E005A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{974BA8CA-841B-40F0-95B1-DAC43D64EA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{974BA8CA-841B-40F0-95B1-DAC43D64EA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{974BA8CA-841B-40F0-95B1-DAC43D64EA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D020BEE-A5D9-400B-A18B-54435C1E005A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D020BEE-A5D9-400B-A18B-54435C1E005A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D020BEE-A5D9-400B-A18B-54435C1E005A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D020BEE-A5D9-400B-A18B-54435C1E005A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
