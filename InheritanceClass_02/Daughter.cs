@@ -13,20 +13,17 @@ namespace InheritanceClass_02
         public override void SingSongs()
         {
             base.SingSongs();
-            Console.WriteLine("А еще умеет играть на пианино.");
+            Console.WriteLine("А ещё иногда поёт песни в поп-группе.");
         }
 
         public override void DayliChores()
         {
             Console.WriteLine(Name + " ходит на работу в офис.");
         }
-        public override void TextOutput()
-        {
-            base.TextOutput();
-        }
+
         public override void Role()
         {
-            Console.WriteLine($"Роль Валерии в семье - быть мамой для Максима и дочерью для Клавдии.");
+            Console.WriteLine($"Роль {Name} в семье - быть дочерью и мамой для сына.");
         }
     }
 }

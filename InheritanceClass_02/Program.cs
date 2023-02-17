@@ -25,7 +25,7 @@ namespace InheritanceClass_02
             child.SingSongs();
             Console.ReadKey();
         }
-        
+
     }
 
 }

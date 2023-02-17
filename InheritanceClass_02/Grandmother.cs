@@ -6,9 +6,9 @@ namespace InheritanceClass_02
 {
     public class GranMother
     {
-        public string Name;
+        public readonly string Name;
         public readonly string ColorEyes;
-        public string ColorHair;
+        public readonly string ColorHair;
 
         public GranMother(string name, string colorEyes, string colorHair)
         {
@@ -23,16 +23,19 @@ namespace InheritanceClass_02
         }
         public virtual void SingSongs()
         {
-            Console.WriteLine(Name + " умеет петь.");
+            Console.WriteLine(Name + " поёт песни дома.");
         }
         public virtual void TextOutput()
         {
-            Console.WriteLine("Расскажем немного об этом члене семьи.\nИмя: " + Name + "\n" + "Цвет глаз: " + ColorEyes + "\n" + "Цвет волос: " + ColorHair);
+            Console.WriteLine("Расскажем немного об этом члене семьи.\n" +
+                "Имя: " + Name + "\n" +
+                "Цвет глаз: " + ColorEyes + "\n" +
+                "Цвет волос: " + ColorHair);
         }
 
         public virtual void Role()
         {
-            Console.WriteLine($"Роль Клавдии в семье - быть бабушкой.");
+            Console.WriteLine($"Роль {Name} в семье - быть бабушкой.");
         }
     }
 }

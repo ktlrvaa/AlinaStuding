@@ -17,13 +17,10 @@ namespace InheritanceClass_02
         {
             Console.WriteLine(Name + " ползает и играет в игрушки.");
         }
-        public override void TextOutput()
-        {
-            base.TextOutput();
-        }
+
         public override void Role()
         {
-            Console.WriteLine($"Роль Максима в семье - быть любимым внуком и сыном.");
+            Console.WriteLine($"Роль {Name} в семье - быть любимым внуком и сыном.");
         }
     }
 }
