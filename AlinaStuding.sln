@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_02", "Array_02\Array_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicPuzzles", "LogicPuzzles\LogicPuzzles.csproj", "{1D020BEE-A5D9-400B-A18B-54435C1E005A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceClass_02", "InheritanceClass_02\InheritanceClass_02.csproj", "{D0BEEF91-AF08-4FAE-9846-9292683C3858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceClass_02", "InheritanceClass_02\InheritanceClass_02.csproj", "{D0BEEF91-AF08-4FAE-9846-9292683C3858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftForVodimium", "GiftForVodimium\GiftForVodimium.csproj", "{E2A887EB-06CA-47F2-8C51-4C68B7928412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{D0BEEF91-AF08-4FAE-9846-9292683C3858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0BEEF91-AF08-4FAE-9846-9292683C3858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0BEEF91-AF08-4FAE-9846-9292683C3858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A887EB-06CA-47F2-8C51-4C68B7928412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A887EB-06CA-47F2-8C51-4C68B7928412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A887EB-06CA-47F2-8C51-4C68B7928412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A887EB-06CA-47F2-8C51-4C68B7928412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
