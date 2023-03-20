@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceClass_02", "Inhe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiftForVodimium", "GiftForVodimium\GiftForVodimium.csproj", "{E2A887EB-06CA-47F2-8C51-4C68B7928412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_01", "Indexers_01\Indexers_01.csproj", "{9C152D60-F4F1-4C0A-9B10-65405248B78D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers_01", "Indexers_01\Indexers_01.csproj", "{9C152D60-F4F1-4C0A-9B10-65405248B78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_01", "List_01\List_01.csproj", "{4BFB3269-C535-4F6A-8F8E-A1D3871F3666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{9C152D60-F4F1-4C0A-9B10-65405248B78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C152D60-F4F1-4C0A-9B10-65405248B78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C152D60-F4F1-4C0A-9B10-65405248B78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFB3269-C535-4F6A-8F8E-A1D3871F3666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFB3269-C535-4F6A-8F8E-A1D3871F3666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFB3269-C535-4F6A-8F8E-A1D3871F3666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFB3269-C535-4F6A-8F8E-A1D3871F3666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
